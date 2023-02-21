@@ -1,0 +1,1531 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: content-box;
+}
+
+
+
+.iconTabDescription {
+    color: rgba(0, 0, 0, 0.5);
+    line-height: 1.75em;
+}
+
+
+
+.iconTab-styled-i {
+    font-size: 24px;
+    margin: 0px
+}
+
+.our-services-sectionLeft-styled-h1 {
+    font-size: 2em;
+    margin-bottom: 5%;
+}
+
+.medicine-styled-i {
+    padding-top: 15%;
+    padding-bottom: 5%;
+}
+
+.styled-li-a {
+    padding: 15px;
+    background: #fe5f55;
+    color: white;
+    border-radius: 0.5em;
+}
+
+.services-tab {
+    display: flex;
+    padding-bottom: 5%;
+}
+
+
+
+
+.listItems-a {
+    font-weight: 900;
+    font-size: 1.5em;
+}
+
+.iconTabHeading {
+    margin-bottom: 5%;
+}
+
+.overlay-section {
+    background: url('./media/xbg_3.png');
+    padding-bottom: 2%;
+    background-position: center 25%;
+    height: 576px;
+}
+
+.make-appointment-section-right-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.hamburger-icon {
+
+    position: absolute;
+    right: 5vw;
+
+}
+
+
+.search-places-section-wrapping-div {
+    margin-top: 10%;
+    color: #fe5f55;
+}
+
+
+.slider-dots {
+    margin-bottom: 3%;
+}
+
+.testimonial-section-content {
+    color: white;
+    padding-bottom: 5%;
+}
+
+.testimonial-section-profile-heading {
+    color: white;
+}
+
+
+.blog-image-responsive {
+    display: none;
+}
+
+.testimonial-section-heading {}
+
+.testimonial-section-profile-small-heading {
+    color: white;
+}
+
+.nav-responsive-h1 {
+    color: white;
+    padding: 1%;
+}
+
+.text-blue {
+    color: #207dff;
+}
+
+.logo-brand {
+
+    position: absolute;
+    left: 5vw;
+
+}
+
+.navbar-responsive {
+    display: none;
+    height: 75px;
+    width: 100%;
+    position: static;
+    top: 0%;
+    background: black;
+    align-items: center;
+    /* nav styling */
+}
+
+.medi-contact-section-icon-i {
+    margin: 0%;
+    font-size: 1.2em;
+}
+
+.slider-circle {
+    width: 0.5em;
+    height: 0.5em;
+    margin: 5px;
+    border-radius: 50%;
+    border: 1px solid white;
+    background: white;
+}
+
+.m-0 {
+    margin: 0px;
+}
+
+.footer-content {
+    margin-bottom: 12%;
+}
+
+
+.s5-content {
+    color: #999999;
+    padding: 0% 5% 5% 5%;
+}
+
+.text-gray {
+    color: #999999;
+}
+
+
+
+.arrow-list {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.iconTab {
+    text-align: center;
+    height: 75px;
+    width: 75px;
+    background: #ffeeed;
+    color: #fe5f55;
+    ;
+    font-size: 1.5em;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.arrow-content {
+    display: flex;
+    margin-bottom: 5%;
+    color: #207dff;
+}
+
+.sec-last-icon-wrapper {
+    display: flex;
+    width: 100%;
+}
+
+.sec-last-icon-container {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.6em;
+    margin-right: 5%;
+    color: white;
+    background: #207dff;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    padding: 1%;
+
+}
+
+.footer-heading-1 {
+    font-size: 1.5em;
+    margin-bottom: 12%;
+}
+
+
+.footer-container {
+    display: flex;
+    z-index: 1;
+    width: 100%;
+    padding: 4%;
+}
+
+
+
+
+.footer-column {
+    display: flex;
+    flex: 0 0 20%;
+    max-width: 20%;
+    flex-direction: column;
+
+}
+
+.doctor-content {
+    padding-bottom: 2%;
+}
+
+.slider-circle-orange {
+    background: orange;
+    border: 1px solid orange;
+}
+
+
+.footer-section {
+
+    position: relative;
+    display: flex;
+    width: 100%;
+    height: 500px;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.footer-overlay {
+    position: absolute;
+    height: 100%;
+    z-index: 0;
+    width: 100%;
+    background: rgba(255, 255, 255, 0.7);
+}
+
+.blog-content {
+    padding-bottom: 5%;
+}
+
+.Wrapper input {
+    width: 100%;
+    border-radius: 5px;
+    height: 3em;
+    border: 1px solid gray;
+    margin-bottom: 3%;
+    padding-left: 3%;
+    font-size: 1em;
+}
+
+.Wrapper textarea {
+    width: 100%;
+    border-radius: 5px;
+    height: 5em;
+    border: 1px solid gray;
+    margin-bottom: 3%;
+    font-size: 1em;
+    resize: none;
+}
+
+
+.map-form-section {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 5%;
+}
+
+.map-form-section-container {
+    flex-basis: 72%;
+    display: flex;
+    flex-wrap: wrap-reverse;
+    background: #f8f9fa;
+}
+
+.doc-h3 {
+    font-size: 0.9em;
+}
+
+.map-form-section-container-left {
+    background: url('./media/gmap.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    flex-basis: 50%;
+}
+
+.map-form-section-container-right {
+    flex-basis: 50%;
+
+}
+
+
+.medi-contact-section-content {
+    width: 65%;
+    padding: 5%;
+}
+
+.medi-contact-section-heading-1 {
+    font-size: 0.75em;
+    padding-bottom: 5%;
+}
+
+.medi-contact-section-heading-4 {
+    font-size: 1em;
+    padding-bottom: 5%;
+}
+
+
+.medi-contact-section-heading {
+    line-height: 2em;
+}
+
+.medi-contact-section-tab-icon {
+    padding: 10%;
+    margin: 15%;
+    border-radius: 50%;
+    background: #fff;
+}
+
+.medi-contact-section-tab {
+    display: flex;
+    flex-direction: column;
+    background: #f8f9fa;
+    flex-basis: 20%;
+    text-align: center;
+    align-items: center;
+
+}
+
+.sec10 {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 5%;
+}
+
+.medi-contact-section {
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.medi-contact-section-container {
+    flex-basis: 75%;
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 5%;
+}
+
+.testimonial-section {
+    position: relative;
+    display: flex;
+    background-image: url('./media/xbg_3.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 5%;
+}
+
+.testimonial-section-content {
+    text-align: center;
+}
+
+.testimonial-section-profile {
+
+
+
+    flex-basis: 27%;
+    font-size: 1em;
+    line-height: 1.5em;
+    text-align: center;
+
+
+}
+
+.testimonial-section-profile-image {
+    padding-bottom: 5%;
+}
+
+.testimonial-section-profile-image img {
+    height: 130px;
+    width: 130px;
+    object-fit: contain;
+    border-radius: 100%;
+}
+
+.testimonial-section-heading {
+    font-size: 3em;
+    padding-bottom: 3%;
+    color: white;
+}
+
+.testimonial-section-small-heading {
+    padding-top: 7%;
+    color: white;
+    font-size: 0.85em;
+}
+
+.testimonial-section-slider-container {
+    display: flex;
+    width: 100%;
+    padding-bottom: 5%;
+    justify-content: space-around;
+}
+
+.medic-blog-section {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 5%;
+}
+
+.blog-comment-icon {
+    padding-left: 3%;
+    font-size: 0.7em;
+}
+
+.blog-comment-count {
+    font-size: 0.7em;
+}
+
+.medic-blog-section-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    flex-basis: 75%;
+    justify-content: space-around;
+}
+
+.blog-container {
+    display: flex;
+    text-align: center;
+    max-width: 30%;
+    flex: 0 0 30%;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-bottom: 5%;
+    flex-direction: column;
+}
+
+
+.blog-heading3 {
+    padding-bottom: 5%;
+}
+
+.blog-heading4 {
+
+    color: #fe5f55;
+    padding-bottom: 5%;
+}
+
+.blog-image {
+    background: url('./media/xdoc-1.png');
+    background-size: cover;
+    height: 250px;
+    width: 100%;
+    margin-bottom: 5%;
+}
+
+.blog {
+    line-height: 2em;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+}
+
+
+.medic-stats-section-stats {
+    flex-basis: 45%;
+    text-align: center;
+    padding: 2%;
+
+}
+
+.medic-stats-section-stats-heading {
+    font-size: 3rem;
+}
+
+.medic-stats-section-stats-content {
+    font-size: 1rem;
+}
+
+.medic-stats-section-left {
+    flex-basis: 25%;
+    margin-top: 5%;
+}
+
+.medic-stats-section-right {
+    margin-left: 5%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    flex-basis: 50%;
+    color: white;
+}
+
+.medic-stats-section-right div:first-child {
+    border-right: 1px solid white;
+    border-bottom: 1px solid white;
+}
+
+.medic-stats-section-right div:last-child {
+    border-top: 1px solid white;
+    border-left: 1px solid white;
+}
+
+.medic-stats-section {
+    position: relative;
+    display: flex;
+    width: 100%;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    background-image: url('./media/xbg_3.png');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    justify-content: center;
+    align-items: center;
+}
+
+.medic-stats-section-p {
+    font-size: 1em;
+    color: white;
+}
+
+.medic-stats-section-h {
+    font-size: 2em;
+    font-weight: 900;
+    color: white;
+}
+
+
+
+.medic-stats-section-container {
+    display: flex;
+    z-index: 1;
+    margin-right: 10%;
+    flex-direction: row;
+    flex-basis: 85%;
+    justify-content: space-around;
+
+}
+
+.testimonial-section-container {
+    display: flex;
+    z-index: 1;
+    flex-direction: column;
+    flex-basis: 75%;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.doctors-presentation-tabs {
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    padding-bottom: 5%;
+}
+
+.overlay {
+    position: absolute;
+    height: 100%;
+    z-index: 0;
+    width: 100%;
+    background: rgba(32, 125, 255, 0.8);
+}
+
+.booknow-button {
+    width: 50%;
+    border-radius: 20px;
+    padding: 0.5em;
+    color: white;
+    background: #207dff;
+}
+
+
+.readmore-button {
+    width: 10vw;
+    padding: 0.5em;
+    border-radius: 25px;
+    color: white;
+    text-align: center;
+    background: #207dff;
+}
+
+.qualified-doctor-section {
+    display: block;
+    text-align: center;
+    padding-top: 5%;
+    padding-bottom: 1em;
+}
+
+.s5-description {
+    display: flex;
+    flex-direction: column;
+}
+
+.s5-heading {
+    font-size: 3em;
+    padding-bottom: 1em;
+}
+
+.doctors-container {
+    display: flex;
+    text-align: center;
+    max-width: 20%;
+    flex: 0 0 25%;
+    flex-direction: column;
+}
+
+
+.doc-image1 {
+    background: url('./media/xdoc-1.png');
+}
+
+.doc-image2 {
+    background: url('./media/xdoc-2.png');
+}
+
+.doc-image3 {
+    background: url('./media/xdoc-3.png');
+}
+
+.doc-image4 {
+    background: url('./media/xdoc-4.png');
+}
+
+
+
+.doctor-image {
+
+    background-size: cover;
+    height: 350px;
+    margin-bottom: 5%;
+}
+
+.doctor {
+    line-height: 2em;
+    display: flex;
+    flex-basis: 25%;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+
+.medicalHeading {
+    font-size: 1.8rem;
+    padding-bottom: 2%;
+}
+
+.medicalContent {
+    font-size: 0.35em;
+    padding-bottom: 12%;
+    color: #999999;
+}
+
+.medicine_tab {
+    flex-basis: 33%;
+    font-size: 3em;
+    text-align: center;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    background: white;
+}
+
+.treatment-types-section {
+    display: none;
+
+    width: 100%;
+}
+
+.left-side {
+    display: flex;
+    width: 100%;
+    flex-basis: 30%;
+}
+
+.right-side {
+    display: flex;
+    flex-direction: row;
+    flex-basis: 70%;
+    flex-wrap: wrap;
+}
+
+.imagePanel {
+    background: url('./media/xdept-1.png');
+    background-position: center center;
+    background-size: cover;
+    width: 100%
+}
+
+.search-places-section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    background-image: url('./media/xbg_2.png');
+    padding: 5%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.search-places-section-heading {
+    font-size: 3em;
+}
+
+
+
+.pad-bot{
+    padding-bottom: 5%;
+}
+
+.our-services-free-heading{
+    padding-top:10%;
+}
+
+.search-places-section-content {
+    font-size: 1.1em;
+    margin-bottom: 5%;
+}
+
+.centerAligned {
+    text-align: center;
+}
+
+
+.iconContent {
+    flex-basis: 50%;
+    margin-left: 2%
+}
+
+
+body {
+    /* Root font size */
+    font-family: "Poppins", Arial, sans-serif;
+    overflow-x: hidden;
+    font-size: 17px;
+}
+
+.signup_signin {
+    display: flex;
+    flex-wrap: nowrap;
+    width: 100%;
+    height: 40px;
+    z-index: 1;
+    background: dodgerblue;
+    color: white;
+}
+
+.wrapper {
+    display: flex;
+
+    margin-top: 0.7em;
+    margin-bottom: 0;
+    margin-left: 12%;
+    font-size: 1em;
+}
+
+.nav_signin {
+    position: absolute;
+    margin: 15px 50px 0 20px;
+    margin-top: 0.7em;
+    font-size: 1em;
+    display: flex;
+    right: 0px;
+}
+
+.border_heading {
+    border-right: 1px solid white;
+    padding-right: 0.7em;
+    margin-right: 0.7em;
+}
+
+.navbar {
+    display: flex;
+    background: blue;
+
+}
+
+.headerImage img {
+    position: absolute;
+    object-fit: cover;
+    height: 500px;
+    width: 100%
+}
+
+.navbar_transparent {
+    display: flex;
+    position: relative;
+    background: rgba(255, 255, 255, 0.5) !important;
+    width: 100%;
+    flex-wrap: nowrap;
+}
+
+i {
+    margin-right: 10px;
+}
+
+.logo {
+    font-size: 2em;
+    padding: 1em;
+    padding-left: 5vw;
+    font-weight: 900;
+    z-index: 1;
+}
+
+.listItems {
+    display: flex;
+    flex-wrap: nowrap;
+    width: 100%;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.listItems ul {
+    display: inline-flex;
+    padding: 1em;
+    list-style: none;
+    font-size: 1em;
+}
+
+.listItems ul li {
+    margin: 1.5em;
+}
+
+.headerContent {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    margin-left: 10%;
+}
+
+.header-content-heading4 {
+    color: #207dff;
+    font-size: 0.8em;
+    margin-top: 1em;
+    margin-bottom: 2.5em;
+    font-weight: 900;
+}
+
+.header-content-heading1 {
+    font-size: 4em;
+    font-weight: 900;
+    line-height: 1;
+    white-space: pre;
+    margin-bottom: 0.35em;
+}
+
+.header-content-paragraph {
+    word-spacing: 0.3em;
+    line-height: 1.25em;
+    font-size: 1.1em;
+    margin-bottom: 15%;
+    color: rgba(0, 0, 0, 0.5)
+}
+
+.header-content-anchor {
+    padding: 1em;
+    background: #207dff;
+    border-radius: 2em;
+    color: white;
+    text-decoration: none;
+}
+
+
+.blueButton {
+    padding: 1em;
+    font-size: 0.5em;
+    background: #207dff;
+    border-radius: 2em;
+    color: white;
+    margin-right: 2%;
+    text-decoration: none;
+}
+
+
+.contactUsButton {
+    padding: 1em;
+    font-size: 0.5em;
+    background: #fe5f55;
+    border-radius: 2em;
+    color: white;
+    text-decoration: none;
+}
+
+.searchPlaceButton {
+
+
+    padding-top: 1em;
+    padding-bottom: 1em;
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+    font-size: 1em;
+    background: white;
+    border-radius: 2em;
+    color: Black;
+    text-decoration: none;
+    position: relative;
+    width: max-content;
+    margin: 0 auto;
+}
+
+.appointmentButton {
+    padding: 1em;
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+    font-size: 0.5em;
+    background: #fe5f55;
+    border-radius: 2em;
+    color: white;
+    text-decoration: none;
+}
+
+.Wrapper {
+    margin: 10%;
+}
+
+
+.sendMessageButton {
+    padding: 1em;
+    width: 45%;
+    text-align: center;
+    font-size: 1em;
+    background: #fe5f55;
+    border-radius: 2em;
+    color: white;
+    text-decoration: none;
+}
+
+
+.medic-stats-section-appointmentButton {
+    padding: 1em;
+    font-size: 1em;
+    background: #fe5f55;
+    border-radius: 2em;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    margin-top: 5%;
+}
+
+.make-appointment-section {
+    display: flex;
+    position: static;
+    z-index: -1;
+    width: 100%;
+    justify-content: center;
+}
+
+.sec1Left {
+    flex-basis: 50%;
+    display: flex;
+    background: url('./media/xabout.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    /* Remove on Change  */
+    margin-right: 5%
+}
+
+
+.sec1Right {
+    font-size: 2em;
+    margin-top: 10%;
+    width: 50%;
+}
+
+.sec1Right-paragraph {
+    font-size: 0.65em;
+    color: rgba(0, 0, 0, 0.5);
+    margin-bottom: 1em;
+
+}
+
+.sec1Right span {
+    color: blue;
+}
+
+
+.container {
+    display: flex;
+    padding-left: 15%;
+    padding-right: 15%;
+    margin-bottom: 1%;
+    justify-content: space-around;
+}
+
+
+/* Container 2 */
+
+
+.our-services-section {
+    display: none;
+    background: #f8f9fa;
+    position: static;
+    z-index: -1;
+    width: 100%;
+    justify-content: space-around;
+}
+
+.our-services-sectionLeft {
+    flex-basis: 75%;
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    padding-left: 5%;
+    margin-top: 5%;
+    font-weight: 900;
+}
+
+.our-services-sectionLeft img {
+    height: 500px;
+    object-fit: cover;
+}
+
+.our-services-sectionRight {
+    background: white;
+    font-size: 2em;
+    width: 100%;
+    padding-bottom: 10%;
+}
+
+.our-services-sectionRight p {
+    font-size: 0.65em;
+    color: #207dff;
+    margin-bottom: 1em;
+    margin-left: 10%
+}
+
+.our-services-sectionRight span {
+    color: blue;
+}
+
+.container2 {
+    display: flex;
+    width: 70%;
+    margin-bottom: 1%;
+}
+
+.formFields {
+    margin-bottom: 4%;
+}
+
+.ip2 {
+    border-radius: 25px;
+    border: 2px solid #999999;
+    padding: 20px;
+    width: 75%;
+    height: 15px;
+}
+
+.tab_left {
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+
+
+@media screen and (max-width:1050px) {
+
+    .signup_signin,
+    .navbar_transparent {
+        display: none;
+    }
+
+    .headerContent {
+        margin-left: 5%;
+    }
+
+
+
+    .footer-content {
+        margin-bottom: 5%;
+    }
+
+
+    .arrow-list {
+        margin-left: 3%;
+    }
+
+    .sec-last-icon-container {
+        height: 35px;
+        width: 35px;
+        font-size: 1.2em;
+        margin-bottom: 5%;
+        margin-right: 5%;
+    }
+
+    .arrow-content {
+        margin-bottom: 3%;
+        font-size: 0.9em;
+    }
+
+
+    /* medi-contact-section */
+    .medi-contact-section {
+        display: flex;
+        width: 100%;
+        align-items: center;
+        flex-direction: column;
+    }
+
+
+    .map-form-section {
+        display: flex;
+        width: 100%;
+        justify-content: center;
+        align-items: center;
+        margin-bottom: 5%;
+        flex-wrap: wrap-reverse;
+    }
+
+    .map-form-section-container {
+        flex-basis: 95%;
+        display: flex;
+        flex-wrap: wrap-reverse;
+        background: #f8f9fa;
+        flex-direction: column-reverse;
+
+    }
+
+    .map-form-section-container-left {
+        background: url('./media/gmap.png');
+        background-size: cover;
+        background-repeat: no-repeat;
+        height: 350px;
+        flex-basis: unset;
+    }
+
+    .map-form-section-container-right {
+        flex-basis: 50%;
+    }
+
+    .medi-contact-section-container {
+
+        display: flex;
+        padding-bottom: 5%;
+        flex-direction: column;
+        width: 90%;
+    }
+
+    .medi-contact-section-tab {
+        display: flex;
+        flex-direction: column;
+        background: #f8f9fa;
+        flex-basis: 20%;
+        text-align: center;
+        align-items: center;
+        margin-bottom: 10%;
+    }
+
+    /* medi-contact-section close */
+
+
+
+
+    .blog-image-responsive {
+        display: unset;
+    }
+
+    .testimonial-section-responsive {
+        display: none;
+    }
+
+    .testimonial-section-profile {
+        flex-basis: 100%;
+    }
+
+    .testimonial-section-profile-heading {
+        font-size: 1.5em;
+    }
+
+    .testimonial-section-profile-small-heading {
+        font-size: 1em;
+    }
+
+    .blueButton {
+        margin-bottom: 5%;
+    }
+
+    .navbar-responsive {
+        display: flex;
+        color: white;
+    }
+
+
+    .container {
+        flex-direction: column;
+    }
+
+    .sec1Left {
+        height: 500px;
+        flex: 1 0 auto;
+    }
+
+    .sec1Right {
+        flex-basis: 50%;
+        width: unset;
+    }
+
+    .make-appointment-section-right-wrapper {
+        text-align: center;
+        flex-direction: column;
+    }
+
+    .our-services-section {
+        display: flex;
+    }
+
+    .container2 {
+        width: 100%;
+        flex-direction: column;
+    }
+
+    .treatment-types-section {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .doctors-presentation-tabs {
+        display: flex;
+        width: 100%;
+        justify-content: center;
+        padding-bottom: 5%;
+        flex-wrap: wrap;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .doctors-container {
+        display: flex;
+        text-align: center;
+        max-width: 100%;
+        flex-direction: column;
+        padding-bottom: 5%;
+    }
+
+    .medic-stats-section {
+        position: relative;
+        display: flex;
+        width: 100%;
+        height: 100%;
+        background-image: url('./media/xbg_3.png');
+        background-size: cover;
+        background-position: center center;
+        background-repeat: no-repeat;
+    }
+
+    .medic-stats-section-container {
+        display: flex;
+        z-index: 1;
+        flex-direction: column;
+        padding-bottom: 30%;
+        justify-content: center;
+        align-items: center;
+        flex-basis: 75%;
+
+    }
+
+    .medic-stats-section-left {
+        max-height: 100%;
+        flex: 1 1 100%;
+        max-width: unset;
+        margin-bottom: 5%;
+    }
+
+    .medic-stats-section-right {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        margin: unset;
+        flex: 0 0 100%;
+        color: white;
+        width: 100%;
+    }
+
+
+
+    .blog-image {
+        all: unset;
+    }
+
+    .medic-stats-section-stats {
+        padding: 5%;
+        border-bottom: 1px solid white;
+    }
+
+    .medic-stats-section-stats-heading {
+        font-size: 2.75em;
+    }
+
+    .medic-stats-section-right div:first-child {
+        border: unset;
+        border-bottom: 1px solid white;
+    }
+
+    .medic-stats-section-right div:last-child {
+        border: unset;
+        border-bottom: 1px solid white;
+    }
+
+    .medic-stats-section-p {
+        font-size: 0.75em;
+    }
+
+    .medic-stats-section-h {
+        font-size: 1.75em;
+    }
+
+    .s5-heading {
+        font-size: 1.5em;
+    }
+
+
+
+
+
+
+
+    .readmore-button {
+        width: 25%;
+        padding: 0.25em;
+        border-radius: 25px;
+        color: white;
+        text-align: center;
+        background: #207dff;
+    }
+
+
+    .medic-blog-section {
+        display: flex;
+        width: 100%;
+        justify-content: center;
+        align-items: center;
+        padding-bottom: 5%;
+    }
+
+    .blog-container {
+        display: flex;
+        flex: unset;
+        max-width: 95%;
+        padding-left: 15px;
+        padding-right: 15px;
+        padding-bottom: 5%;
+        flex-direction: column;
+    }
+
+
+    .medic-blog-section-container {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        flex-basis: 100%;
+        align-content: center;
+    }
+
+
+    .blog-image img {
+        object-fit: cover;
+        width: 100%;
+        height: 100%;
+        object-position: center;
+    }
+
+    .blog-heading4 {
+        font-size: 0.75em;
+        letter-spacing: 0.1em;
+    }
+
+
+    .footer-container {
+        display: flex;
+        z-index: 1;
+        width: 85%;
+        padding: 4%;
+        flex-direction: column;
+    }
+
+    .footer-column {
+        display: flex;
+        max-width: 100%;
+        flex-direction: column;
+        margin-bottom: 10%;
+    }
+
+
+    .footer-heading-1 {
+        margin-bottom: 5%;
+        font-size: 1em;
+    }
+
+    .footer-container {
+        background: rgba(255, 255, 255, 0.7);
+        height: max-content;
+    }
+
+
+    /* media query end */
+}
+
+/* // */
+
+
+@media screen and (max-width:670px) {
+
+    .search-places-section-heading {
+        font-size: 1.5em;
+    }
+
+    .search-places-section-content {
+        font-size: 1em;
+    }
+
+
+}
+
+
+@media screen and (max-width:750px) {
+
+    .header-content-heading4 {
+        font-size: 0.8em;
+    }
+
+    .overlay-section {
+        background-size: cover;
+        background-position: center;
+    }
+
+    .headerContent {
+        padding: 2%;
+        width: 85%;
+    }
+
+
+    .sec1Right h1 {
+        font-size: 1em;
+    }
+
+    .headerContent p {
+        font-size: 1em;
+        line-height: 1.9em;
+    }
+
+    .header-content-heading4 {
+        margin-bottom: 1.5em;
+    }
+
+    .header-content-heading1 {
+        font-size: 2em;
+    }
+
+
+    .sec0-header {
+        margin-top: 25%;
+    }
+}
+
+
+
+@media screen and (max-width:510px) {
+
+    /* Change Main Header Font size to Adjust */
+    .readmore-button {
+        width: 45%;
+    }
+
+}
+
+
+@media screen and (max-width:580px) {
+
+    .testimonial-section-heading {
+        font-size: 2em;
+    }
+}
+
+
+
+@media screen and (max-width:380px) {
+
+    /* Change Main Header Font size to Adjust */
+    .sendMessageButton {
+        width: 70%;
+    }
+
+    .testimonial-section-heading {
+        font-size: 1.5em;
+    }
+
+}
